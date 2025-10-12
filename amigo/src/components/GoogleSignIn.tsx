@@ -6,6 +6,7 @@ import type { UserProfile } from '../store/userStore'
 
 export default function GoogleSignIn() {
   const { isAuthenticated, setProfile, logout } = useUserStore()
+  const clientId = (import.meta as any).env?.VITE_GOOGLE_CLIENT_ID as string | undefined
 
   const onSuccess = (cred: CredentialResponse) => {
     try {
@@ -36,6 +37,14 @@ export default function GoogleSignIn() {
         style={{ padding: '8px 12px' }}
       >
         Sign out
+      </button>
+    )
+  }
+
+  if (!clientId) {
+    return (
+      <button disabled title="Configure VITE_GOOGLE_CLIENT_ID to enable Google Sign-In">
+        Google Sign-In unavailable (configure client ID)
       </button>
     )
   }
