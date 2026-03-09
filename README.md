@@ -1,1 +1,1 @@
-PORTFOLIO FINISHED ! will get you guys in touch 
+PORTFOLIO FINISHED ! will get in touch with you  guys 
