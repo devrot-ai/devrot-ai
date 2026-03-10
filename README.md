@@ -1,1 +1,1 @@
-PORTFOLIO FINISHED ! will get in touch with you  guys 
+building a ai that cold mail for you 
