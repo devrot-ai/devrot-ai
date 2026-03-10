@@ -1,1 +1,1 @@
-building a ai that cold mail for you 
+building a ai that cold mails from your behalf 
