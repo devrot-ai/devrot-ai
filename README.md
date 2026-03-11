@@ -1,1 +1,1 @@
-building a ai that cold mails from your behalf 
+cold mailing founder speedrun is about to be legendary 
