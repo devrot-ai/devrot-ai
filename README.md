@@ -6,3 +6,4 @@ also i will make it compatable hardware compoment for meta glasses to be able to
 thinking of  submitting the project for a hackthon in amazon nova ai will let the result help me churn the decision
 
 **
+changes  will be visible within a week or two
