@@ -1,1 +1,5 @@
+
+
+
+
 dropping the cold mail idea there are just too many of them thinking of something related to artificaal intellligence like a deep research finicial traker or a voice device that understand the logic of the code that i just put in and writes the code for me kinda like github copliot and else 
