@@ -1,7 +1,7 @@
 fight club final boss
 gbye
 the projects are stacking up so are the paper datelines 
-litter system making is on the way i am thinking of making a litter system for india drvers and people in general will keep you guys updated 
+litter system making is on the way i am thinking of making a litter system for india drvers and people in general will keep you guys updated  this is in testing phase and and accuracy is aaround 80 to 90 depending upon the changes in the velcoity of the vehicles and also theitems like electronics dropped during a ride  is the biggest problem rest else can be easily be fixed by l1 and l2 regularzation or early stopping or gadient descent 
 
 
 
