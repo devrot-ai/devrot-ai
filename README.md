@@ -1,3 +1,4 @@
+one thing is still misssing like a holding platform or a lauching platform @gitub might help but idk 
 fight club final boss
 gbye
 the projects are stacking up so are the paper datelines 
