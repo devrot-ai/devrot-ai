@@ -1,3 +1,4 @@
+changes in the dataset is really changing the outcome but is talking so meuch amout of tome duetot the computing power of my laptop 
 one thing is still misssing like a holding platform or a lauching platform @gitub might help but idk 
 fight club final boss
 gbye
