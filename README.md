@@ -1,4 +1,4 @@
-the predicition is giving around 87 percent accuracy but still we are striving for more will let you guys know its not working because he dataset contains soo much noisethe chnages are workign at the model is learning but still the slop is not upto predicted values will keep you guys updated changes in the dataset is really changing the outcome but is talking so meuch amout of tome duetot the computing power of my laptop 
+ traffic manegment is under working the predicition is giving around 87 percent accuracy but still we are striving for more will let you guys know its not working because he dataset contains soo much noisethe chnages are workign at the model is learning but still the slop is not upto predicted values will keep you guys updated changes in the dataset is really changing the outcome but is talking so meuch amout of tome duetot the computing power of my laptop 
 one thing is still misssing like a holding platform or a lauching platform @gitub might help but idk 
 gbye
 the projects are stacking up so are the paper datelines 
