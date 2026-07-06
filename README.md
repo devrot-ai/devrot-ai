@@ -1,1 +1,1 @@
-ai over view is the new buzz
+how do i get one of those magigilly things 
